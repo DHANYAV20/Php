@@ -4,4 +4,4 @@
 
 https://learnxinyminutes.com/docs/php/
 
-read best security manual gudie
+read best security manual guide
